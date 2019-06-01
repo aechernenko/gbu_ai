@@ -33,7 +33,7 @@ print('\nСписок минимальных элементов в столбц�
 print(min_line, end='\n\n')
 
 # поиск максимального элемента в min_line
-maximum = min_line[0]
+maximum = min_line[0].copy()
 for element in min_line:
     if element > maximum:
         maximum = element
