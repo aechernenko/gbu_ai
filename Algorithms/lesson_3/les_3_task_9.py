@@ -21,7 +21,7 @@ for line in matrix:
         print(element, end='\t') if i < COLUMNS - 1 else print(element)
 
 # буферный список минимальных элементов столбцов матрицы
-min_line = matrix[0]
+min_line = matrix[0].copy()
 
 # поиск в каждом столбце минимального элемента
 for line in matrix:
