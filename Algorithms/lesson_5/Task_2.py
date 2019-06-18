@@ -35,7 +35,9 @@ def hex_sum(first, second):
 
 def hex_mul(first, second):
     dec_sec = 0
-    for i, x in enumerate(second):
+    rev_sec = second[:]
+    rev_sec.reverse()
+    for i, x in enumerate(rev_sec):
         dec_sec += HEX_DEC[x] * (16**i)
 
     res = []
