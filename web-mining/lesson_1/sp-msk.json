@@ -1,0 +1,417 @@
+{
+    "interval_segments": [],
+    "pagination": {
+        "total": 74,
+        "limit": 6,
+        "offset": 0
+    },
+    "segments": [
+        {
+            "except_days": "",
+            "arrival": "05:31:00",
+            "from": {
+                "code": "s9601389",
+                "title": "Сергиев Посад",
+                "station_type": "train_station",
+                "popular_title": "",
+                "short_title": "",
+                "transport_type": "train",
+                "station_type_name": "вокзал",
+                "type": "station"
+            },
+            "thread": {
+                "uid": "6201_1_9601389_g20_4",
+                "title": "Сергиев Посад — Москва (Ярославский вокзал)",
+                "number": "6201",
+                "short_title": "Сергиев Посад — М-Ярославск.",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-21&uid=6201_1_9601389_g20_4",
+                "carrier": {
+                    "code": 153,
+                    "contacts": "&bull; <strong>Горячая линия для пассажиров:</strong><br/>телефон +7 (800) 775-00-00 <i>(звонок из регионов России бесплатный)</i><br/><br/>\r\n&bull; <strong>Для юридических лиц по вопросам перевозки корпоративных клиентов:</strong><br/>телефон +7 (499) 266-02-65,  доб. 7842, 7582, 7368;<br/>e-mail: <a href=\"mailto:corp@central-ppk.ru\">corp@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Пожелания и предложения:</strong> <br/>факс: +7 (499) 266-02-55<br/>e-mail: <a href=\"mailto:info@central-ppk.ru\">info@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Социальные сети:</strong><br/>\r\n<a href=\"http://www.facebook.com/CentralnayaPPK\">www.facebook.com/CentralnayaPPK</a><br/>\r\n<a href=\"http://www.vk.com/centralppk\">www.vk.com/centralppk</a><br/>\r\n<a href=\"http://www.odnoklassniki.ru/centralppk\">www.odnoklassniki.ru/centralppk</a><br/>",
+                    "url": "http://www.central-ppk.ru/",
+                    "logo_svg": null,
+                    "title": "Центральная пригородная пассажирская компания",
+                    "phone": "",
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "address": "г. Москва, ул.Новорязанская, д.18, стр.22",
+                    "logo": "//yastat.net/s3/rasp/media/data/company/logo/cppk.png",
+                    "email": "info@central-ppk.ru"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "departure_platform": "2 платф.",
+            "departure": "03:51:00",
+            "stops": "кроме: Мамонтовская, Клязьма, Тарасовская, Челюскинская, Строитель",
+            "days": "только 21 декабря",
+            "to": {
+                "code": "s2000002",
+                "title": "Москва (Ярославский вокзал)",
+                "station_type": "train_station",
+                "popular_title": "Ярославский вокзал",
+                "short_title": "М-Ярославск.",
+                "transport_type": "train",
+                "station_type_name": "вокзал",
+                "type": "station"
+            },
+            "duration": 6000.0,
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "start_date": "2019-12-21",
+            "arrival_platform": ""
+        },
+        {
+            "except_days": "21 декабря",
+            "arrival": "05:31:00",
+            "from": {
+                "code": "s9601389",
+                "title": "Сергиев Посад",
+                "station_type": "train_station",
+                "popular_title": "",
+                "short_title": "",
+                "transport_type": "train",
+                "station_type_name": "вокзал",
+                "type": "station"
+            },
+            "thread": {
+                "uid": "6201_0_9601389_g20_4",
+                "title": "Сергиев Посад — Москва (Ярославский вокзал)",
+                "number": "6201",
+                "short_title": "Сергиев Посад — М-Ярославск.",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-16&uid=6201_0_9601389_g20_4",
+                "carrier": {
+                    "code": 153,
+                    "contacts": "&bull; <strong>Горячая линия для пассажиров:</strong><br/>телефон +7 (800) 775-00-00 <i>(звонок из регионов России бесплатный)</i><br/><br/>\r\n&bull; <strong>Для юридических лиц по вопросам перевозки корпоративных клиентов:</strong><br/>телефон +7 (499) 266-02-65,  доб. 7842, 7582, 7368;<br/>e-mail: <a href=\"mailto:corp@central-ppk.ru\">corp@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Пожелания и предложения:</strong> <br/>факс: +7 (499) 266-02-55<br/>e-mail: <a href=\"mailto:info@central-ppk.ru\">info@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Социальные сети:</strong><br/>\r\n<a href=\"http://www.facebook.com/CentralnayaPPK\">www.facebook.com/CentralnayaPPK</a><br/>\r\n<a href=\"http://www.vk.com/centralppk\">www.vk.com/centralppk</a><br/>\r\n<a href=\"http://www.odnoklassniki.ru/centralppk\">www.odnoklassniki.ru/centralppk</a><br/>",
+                    "url": "http://www.central-ppk.ru/",
+                    "logo_svg": null,
+                    "title": "Центральная пригородная пассажирская компания",
+                    "phone": "",
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "address": "г. Москва, ул.Новорязанская, д.18, стр.22",
+                    "logo": "//yastat.net/s3/rasp/media/data/company/logo/cppk.png",
+                    "email": "info@central-ppk.ru"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "departure_platform": "2 платф.",
+            "departure": "03:56:00",
+            "stops": "кроме: Мамонтовская, Клязьма, Тарасовская, Челюскинская, Строитель",
+            "days": "ежедневно",
+            "to": {
+                "code": "s2000002",
+                "title": "Москва (Ярославский вокзал)",
+                "station_type": "train_station",
+                "popular_title": "Ярославский вокзал",
+                "short_title": "М-Ярославск.",
+                "transport_type": "train",
+                "station_type_name": "вокзал",
+                "type": "station"
+            },
+            "duration": 5700.0,
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "start_date": "2019-12-16",
+            "arrival_platform": ""
+        },
+        {
+            "except_days": "21 декабря",
+            "arrival": "06:15:00",
+            "from": {
+                "code": "s9601389",
+                "title": "Сергиев Посад",
+                "station_type": "train_station",
+                "popular_title": "",
+                "short_title": "",
+                "transport_type": "train",
+                "station_type_name": "вокзал",
+                "type": "station"
+            },
+            "thread": {
+                "uid": "6203_0_9601389_g20_4",
+                "title": "Сергиев Посад — Москва (Ярославский вокзал)",
+                "number": "6203",
+                "short_title": "Сергиев Посад — М-Ярославск.",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-16&uid=6203_0_9601389_g20_4",
+                "carrier": {
+                    "code": 153,
+                    "contacts": "&bull; <strong>Горячая линия для пассажиров:</strong><br/>телефон +7 (800) 775-00-00 <i>(звонок из регионов России бесплатный)</i><br/><br/>\r\n&bull; <strong>Для юридических лиц по вопросам перевозки корпоративных клиентов:</strong><br/>телефон +7 (499) 266-02-65,  доб. 7842, 7582, 7368;<br/>e-mail: <a href=\"mailto:corp@central-ppk.ru\">corp@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Пожелания и предложения:</strong> <br/>факс: +7 (499) 266-02-55<br/>e-mail: <a href=\"mailto:info@central-ppk.ru\">info@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Социальные сети:</strong><br/>\r\n<a href=\"http://www.facebook.com/CentralnayaPPK\">www.facebook.com/CentralnayaPPK</a><br/>\r\n<a href=\"http://www.vk.com/centralppk\">www.vk.com/centralppk</a><br/>\r\n<a href=\"http://www.odnoklassniki.ru/centralppk\">www.odnoklassniki.ru/centralppk</a><br/>",
+                    "url": "http://www.central-ppk.ru/",
+                    "logo_svg": null,
+                    "title": "Центральная пригородная пассажирская компания",
+                    "phone": "",
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "address": "г. Москва, ул.Новорязанская, д.18, стр.22",
+                    "logo": "//yastat.net/s3/rasp/media/data/company/logo/cppk.png",
+                    "email": "info@central-ppk.ru"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "departure_platform": "2 платф.",
+            "departure": "04:38:00",
+            "stops": "кроме: Абрамцево, Радонеж, Калистово, Ашукинская",
+            "days": "ежедневно",
+            "to": {
+                "code": "s2000002",
+                "title": "Москва (Ярославский вокзал)",
+                "station_type": "train_station",
+                "popular_title": "Ярославский вокзал",
+                "short_title": "М-Ярославск.",
+                "transport_type": "train",
+                "station_type_name": "вокзал",
+                "type": "station"
+            },
+            "duration": 5820.0,
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "start_date": "2019-12-16",
+            "arrival_platform": ""
+        },
+        {
+            "except_days": "",
+            "arrival": "06:15:00",
+            "from": {
+                "code": "s9601389",
+                "title": "Сергиев Посад",
+                "station_type": "train_station",
+                "popular_title": "",
+                "short_title": "",
+                "transport_type": "train",
+                "station_type_name": "вокзал",
+                "type": "station"
+            },
+            "thread": {
+                "uid": "6203_1_9601389_g20_4",
+                "title": "Сергиев Посад — Москва (Ярославский вокзал)",
+                "number": "6203",
+                "short_title": "Сергиев Посад — М-Ярославск.",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-21&uid=6203_1_9601389_g20_4",
+                "carrier": {
+                    "code": 153,
+                    "contacts": "&bull; <strong>Горячая линия для пассажиров:</strong><br/>телефон +7 (800) 775-00-00 <i>(звонок из регионов России бесплатный)</i><br/><br/>\r\n&bull; <strong>Для юридических лиц по вопросам перевозки корпоративных клиентов:</strong><br/>телефон +7 (499) 266-02-65,  доб. 7842, 7582, 7368;<br/>e-mail: <a href=\"mailto:corp@central-ppk.ru\">corp@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Пожелания и предложения:</strong> <br/>факс: +7 (499) 266-02-55<br/>e-mail: <a href=\"mailto:info@central-ppk.ru\">info@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Социальные сети:</strong><br/>\r\n<a href=\"http://www.facebook.com/CentralnayaPPK\">www.facebook.com/CentralnayaPPK</a><br/>\r\n<a href=\"http://www.vk.com/centralppk\">www.vk.com/centralppk</a><br/>\r\n<a href=\"http://www.odnoklassniki.ru/centralppk\">www.odnoklassniki.ru/centralppk</a><br/>",
+                    "url": "http://www.central-ppk.ru/",
+                    "logo_svg": null,
+                    "title": "Центральная пригородная пассажирская компания",
+                    "phone": "",
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "address": "г. Москва, ул.Новорязанская, д.18, стр.22",
+                    "logo": "//yastat.net/s3/rasp/media/data/company/logo/cppk.png",
+                    "email": "info@central-ppk.ru"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "departure_platform": "2 платф.",
+            "departure": "04:38:00",
+            "stops": "Семхоз, Хотьково, Софрино, далее везде, кроме: Мамонтовская, Клязьма, Тарасовская, Челюскинская, Строитель",
+            "days": "только 21 декабря",
+            "to": {
+                "code": "s2000002",
+                "title": "Москва (Ярославский вокзал)",
+                "station_type": "train_station",
+                "popular_title": "Ярославский вокзал",
+                "short_title": "М-Ярославск.",
+                "transport_type": "train",
+                "station_type_name": "вокзал",
+                "type": "station"
+            },
+            "duration": 5820.0,
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "start_date": "2019-12-21",
+            "arrival_platform": ""
+        },
+        {
+            "except_days": "21 декабря",
+            "arrival": "06:13:00",
+            "from": {
+                "code": "s9601389",
+                "title": "Сергиев Посад",
+                "station_type": "train_station",
+                "popular_title": "",
+                "short_title": "",
+                "transport_type": "train",
+                "station_type_name": "вокзал",
+                "type": "station"
+            },
+            "thread": {
+                "uid": "6301_0_9601547_g20_4",
+                "title": "Александров-1 — Москва (Ярославский вокзал)",
+                "number": "6301",
+                "short_title": "Александров-1 — М-Ярославск.",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-16&uid=6301_0_9601547_g20_4",
+                "carrier": {
+                    "code": 153,
+                    "contacts": "&bull; <strong>Горячая линия для пассажиров:</strong><br/>телефон +7 (800) 775-00-00 <i>(звонок из регионов России бесплатный)</i><br/><br/>\r\n&bull; <strong>Для юридических лиц по вопросам перевозки корпоративных клиентов:</strong><br/>телефон +7 (499) 266-02-65,  доб. 7842, 7582, 7368;<br/>e-mail: <a href=\"mailto:corp@central-ppk.ru\">corp@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Пожелания и предложения:</strong> <br/>факс: +7 (499) 266-02-55<br/>e-mail: <a href=\"mailto:info@central-ppk.ru\">info@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Социальные сети:</strong><br/>\r\n<a href=\"http://www.facebook.com/CentralnayaPPK\">www.facebook.com/CentralnayaPPK</a><br/>\r\n<a href=\"http://www.vk.com/centralppk\">www.vk.com/centralppk</a><br/>\r\n<a href=\"http://www.odnoklassniki.ru/centralppk\">www.odnoklassniki.ru/centralppk</a><br/>",
+                    "url": "http://www.central-ppk.ru/",
+                    "logo_svg": null,
+                    "title": "Центральная пригородная пассажирская компания",
+                    "phone": "",
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "address": "г. Москва, ул.Новорязанская, д.18, стр.22",
+                    "logo": "//yastat.net/s3/rasp/media/data/company/logo/cppk.png",
+                    "email": "info@central-ppk.ru"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "departure_platform": "1 платф.",
+            "departure": "04:55:00",
+            "stops": "до Софрино везде, далее Пушкино, Мытищи, Лосиноостровская, Северянин, Москва (Ярославский вокзал)",
+            "days": "ежедневно",
+            "to": {
+                "code": "s2000002",
+                "title": "Москва (Ярославский вокзал)",
+                "station_type": "train_station",
+                "popular_title": "Ярославский вокзал",
+                "short_title": "М-Ярославск.",
+                "transport_type": "train",
+                "station_type_name": "вокзал",
+                "type": "station"
+            },
+            "duration": 4680.0,
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "start_date": "2019-12-16",
+            "arrival_platform": ""
+        },
+        {
+            "except_days": "",
+            "arrival": "06:13:00",
+            "from": {
+                "code": "s9601389",
+                "title": "Сергиев Посад",
+                "station_type": "train_station",
+                "popular_title": "",
+                "short_title": "",
+                "transport_type": "train",
+                "station_type_name": "вокзал",
+                "type": "station"
+            },
+            "thread": {
+                "uid": "6301_1_9601547_g20_4",
+                "title": "Александров-1 — Москва (Ярославский вокзал)",
+                "number": "6301",
+                "short_title": "Александров-1 — М-Ярославск.",
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-21&uid=6301_1_9601547_g20_4",
+                "carrier": {
+                    "code": 153,
+                    "contacts": "&bull; <strong>Горячая линия для пассажиров:</strong><br/>телефон +7 (800) 775-00-00 <i>(звонок из регионов России бесплатный)</i><br/><br/>\r\n&bull; <strong>Для юридических лиц по вопросам перевозки корпоративных клиентов:</strong><br/>телефон +7 (499) 266-02-65,  доб. 7842, 7582, 7368;<br/>e-mail: <a href=\"mailto:corp@central-ppk.ru\">corp@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Пожелания и предложения:</strong> <br/>факс: +7 (499) 266-02-55<br/>e-mail: <a href=\"mailto:info@central-ppk.ru\">info@central-ppk.ru</a><br/><br/>\r\n&bull; <strong>Социальные сети:</strong><br/>\r\n<a href=\"http://www.facebook.com/CentralnayaPPK\">www.facebook.com/CentralnayaPPK</a><br/>\r\n<a href=\"http://www.vk.com/centralppk\">www.vk.com/centralppk</a><br/>\r\n<a href=\"http://www.odnoklassniki.ru/centralppk\">www.odnoklassniki.ru/centralppk</a><br/>",
+                    "url": "http://www.central-ppk.ru/",
+                    "logo_svg": null,
+                    "title": "Центральная пригородная пассажирская компания",
+                    "phone": "",
+                    "codes": {
+                        "icao": null,
+                        "sirena": null,
+                        "iata": null
+                    },
+                    "address": "г. Москва, ул.Новорязанская, д.18, стр.22",
+                    "logo": "//yastat.net/s3/rasp/media/data/company/logo/cppk.png",
+                    "email": "info@central-ppk.ru"
+                },
+                "transport_type": "suburban",
+                "vehicle": null,
+                "transport_subtype": {
+                    "color": "#FF7F44",
+                    "code": "suburban",
+                    "title": "Пригородный поезд"
+                },
+                "express_type": null
+            },
+            "departure_platform": "1 платф.",
+            "departure": "04:55:00",
+            "stops": "Семхоз, Хотьково, Софрино, Пушкино, Мытищи, Лосиноостровская, Северянин, Москва (Ярославский вокзал)",
+            "days": "только 21 декабря",
+            "to": {
+                "code": "s2000002",
+                "title": "Москва (Ярославский вокзал)",
+                "station_type": "train_station",
+                "popular_title": "Ярославский вокзал",
+                "short_title": "М-Ярославск.",
+                "transport_type": "train",
+                "station_type_name": "вокзал",
+                "type": "station"
+            },
+            "duration": 4680.0,
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "start_date": "2019-12-21",
+            "arrival_platform": ""
+        }
+    ],
+    "search": {
+        "date": null,
+        "to": {
+            "code": "s2000002",
+            "title": "Москва (Ярославский вокзал)",
+            "station_type": "train_station",
+            "popular_title": "Ярославский вокзал",
+            "short_title": "М-Ярославск.",
+            "transport_type": "train",
+            "station_type_name": "вокзал",
+            "type": "station"
+        },
+        "from": {
+            "code": "s9601389",
+            "title": "Сергиев Посад",
+            "station_type": "train_station",
+            "popular_title": "",
+            "short_title": "",
+            "transport_type": "train",
+            "station_type_name": "вокзал",
+            "type": "station"
+        }
+    }
+}
