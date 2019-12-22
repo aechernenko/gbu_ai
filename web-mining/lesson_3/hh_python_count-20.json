@@ -1,0 +1,162 @@
+[
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/35005466?query=python",
+    "name": "Программист Python",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 75000.0,
+    "max_salary": 120000.0
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/33864288?query=python",
+    "name": "Data Analyst (Senior)",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/35011897?query=python",
+    "name": "Data Scientist",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 200000.0,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/33206558?query=python",
+    "name": "Senior Data Scientist (Команда знаний)",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/33774758?query=python",
+    "name": "Junior data engineer (внедрение моделей)",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34746892?query=python",
+    "name": "Senior Frontend Developer (JavaScript, React)",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 230000.0,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/35022100?query=python",
+    "name": "Middle PHP developer / PHP разработчик",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 80000.0,
+    "max_salary": 120000.0
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/35049943?query=python",
+    "name": "Python Developer",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 50000.0,
+    "max_salary": 120000.0
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34900635?query=python",
+    "name": "Senior Python Developer (to Riga)",
+    "source": "hh.ru",
+    "currency": "EUR",
+    "min_salary": 3000.0,
+    "max_salary": 4500.0
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34977652?query=python",
+    "name": "Python Developer",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 130000.0,
+    "max_salary": 300000.0
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34850179?query=python",
+    "name": "Backend python/Django разработчик",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 120000.0,
+    "max_salary": 200000.0
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34985441?query=python",
+    "name": "Python разработчик",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 120000.0,
+    "max_salary": 150000.0
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34975372?query=python",
+    "name": "Python/Django разработчик / Python/Django developer",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 120000.0,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34933232?query=python",
+    "name": "Python developer",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 150000.0,
+    "max_salary": 200000.0
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/30005963?query=python",
+    "name": "Python developer",
+    "source": "hh.ru",
+    "currency": "USD",
+    "min_salary": 4000.0,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34846915?query=python",
+    "name": "Python разработчик",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 120000.0,
+    "max_salary": 200000.0
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/35052750?query=python",
+    "name": "Junior Python Developer",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34840585?query=python",
+    "name": "Back-end разработчик Python / Go",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 130000.0,
+    "max_salary": 200000.0
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34933550?query=python",
+    "name": "Python developer",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34763344?query=python",
+    "name": "Разработчик Python Backend",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 150000.0,
+    "max_salary": null
+  }
+]
