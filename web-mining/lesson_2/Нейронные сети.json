@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Программист-разработчик (нейронные сети)",
+    "link": "https://www.superjob.ru/vakansii/programmist-razrabotchik-33248842.html",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "source": "SuperJob.ru"
+  },
+  {
+    "name": "Программист-разработчик",
+    "link": "https://www.superjob.ru/vakansii/programmist-razrabotchik-32398140.html",
+    "min_salary": 100000.0,
+    "max_salary": null,
+    "currency": "RUR",
+    "source": "SuperJob.ru"
+  },
+  {
+    "name": "Программист-математик",
+    "link": "https://www.superjob.ru/vakansii/programmist-matematik-32466029.html",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "source": "SuperJob.ru"
+  },
+  {
+    "name": "Инженер-программист (Phython)",
+    "link": "https://www.superjob.ru/vakansii/inzhener-programmist-33274451.html",
+    "min_salary": 120000.0,
+    "max_salary": 150000.0,
+    "currency": "RUB",
+    "source": "SuperJob.ru"
+  },
+  {
+    "name": "Менеджер по Data Science",
+    "link": "https://www.superjob.ru/vakansii/menedzher-po-data-science-33253315.html",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "source": "SuperJob.ru"
+  },
+  {
+    "name": "Программист php (Битрикс24)",
+    "link": "https://www.superjob.ru/vakansii/programmist-php-33119995.html",
+    "min_salary": 90000.0,
+    "max_salary": null,
+    "currency": "RUR",
+    "source": "SuperJob.ru"
+  },
+  {
+    "name": "Начинающий программист (высокопроизводительные вычисления)",
+    "link": "https://www.superjob.ru/vakansii/nachinayuschij-programmist-31860077.html",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "source": "SuperJob.ru"
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34984304?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Разработчик (нейронные сети)",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 250000.0,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/35082837?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Руководитель отдела продаж",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 100000.0,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/35082929?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Аналитик продаж и маркетинга",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 70000.0,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34439398?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Разработчик систем компьютерного зрения (Senior Computer Vision software engineer)",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34840585?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Back-end разработчик Python / Go",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 130000.0,
+    "max_salary": 200000.0
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/35001977?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Администратор с функциями координатора отдела продаж",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 35000.0,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34958260?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Младший специалист по Data Science, Machine Learning, AI",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 40000.0,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/35033720?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Продакт-менеджер",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34744444?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Video Quality Enhancement Expert",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34669711?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Product owner (команда face recognition)",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/22856468?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Data Scientist (Санкт-Петербург)",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/32811996?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Machine Learning engineer",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/22856466?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Data Scientist (Санкт-Петербург)",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/29779486?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Data Scientist (Санкт-Петербург)",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34353964?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Computer Vision Engineer",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 100000.0,
+    "max_salary": 150000.0
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/33838551?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Senior Data Scientist",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/35016696?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Программист С++",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 130000.0,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/35076173?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Deep Learning Engineer (Программист-разработчик нейронных сетей)",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 100000.0,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/32650967?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Разработчик в отдел R&D (Python)",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/31163404?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Менеджер продукта (направление - медицинские системы)",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/31381678?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Data Scientist/Machine Learn developer",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/35055636?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Ведущий дизайнер-иллюстратор",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": 80000.0,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/29639855?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Data Scientist (emotion detection)",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34698735?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Computer Vision / Data scientist CV",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/28481921?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Data Scientist (speech synthesis)",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34689339?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Data Scientist",
+    "source": "hh.ru",
+    "currency": "RUR",
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/34800856?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Head of marketing analytics",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/35015374?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Консультант\\Старший консультант",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/35081530?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Java Developer (биометрия)",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  },
+  {
+    "link": "https://sergievposad.hh.ru/vacancy/26824987?query=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+    "name": "Middle/ Senior Data scientist (speech recognition)",
+    "source": "hh.ru",
+    "currency": null,
+    "min_salary": null,
+    "max_salary": null
+  }
+]
