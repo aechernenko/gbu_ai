@@ -1,6 +1,11 @@
-1) presentation.pdf - Презентация проекта
-2) summary_ChernenkoAE.pdf - Резюме Черненко А.Е.
-3) dataset_builder.ipynb - Jupyter-ноутбук с кодом построения датасета
-4) main_project.ipynb - Jupyter-ноутбук с кодом построения модели
-5) final_model.pkl - финальная обученная модель CatboostClassifier()
-6) answers_test.csv - предсказания вероятности класса 1
+# Проект «Предсказание отклика абонента на подключение услуги»
+
+*Черненко А.Е.*
+
+Состав проекта:
+* presentation - Презентация проекта
+* summary_ChernenkoAE - Резюме Черненко А.Е.
+* dataset_builder - Jupyter-ноутбук с кодом построения датасета
+* main_project - Jupyter-ноутбук с кодом построения модели
+* final_model - финальная обученная модель CatboostClassifier()
+* answers_test - предсказания вероятности класса 1
